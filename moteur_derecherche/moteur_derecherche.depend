@@ -1,0 +1,348 @@
+# depslib dependency file v1.0
+1652648668 source:d:\moteur de recherche\moteur_derecherche\main.cpp
+	<list>
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<math.h>
+	<set>
+	"BibliothequeH.h"
+	"LecteurH.h"
+	"AnalyseurH.h"
+	"indexH.h"
+	"traiteurH.h"
+	"lecteur_fichierH.h"
+	"lecteur_requeteH.h"
+	"ordonnanceurH.h"
+	<dirent.h>
+	<sys/types.h>
+	"gestionaireH.h"
+	<filesystem>
+	<cstring>
+	"moteurH.h"
+	<chrono>
+	<thread>
+	<windows.h>
+	"IndexH.h"
+	"statistiqueH.h"
+	<iomanip>
+	<ios>
+	<string.h>
+	<exception>
+	<time.h>
+
+1651522273 source:d:\moteur de recherche\moteur_derecherche\bibliothequecode.cpp
+	<iostream>
+	<set>
+	<vector>
+	"BibliothequeH.h"
+
+1651521419 d:\moteur de recherche\moteur_derecherche\bibliothequeh.h
+	<vector>
+	<set>
+
+1652131343 source:d:\moteur de recherche\moteur_derecherche\lecteurcode.cpp
+	<iostream>
+	"LecteurH.h"
+	<set>
+	<string>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+
+1652131327 d:\moteur de recherche\moteur_derecherche\lecteurh.h
+	<iostream>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	<algorithm>
+
+1652647910 source:d:\moteur de recherche\moteur_derecherche\statistiquecode.cpp
+	<iostream>
+	<set>
+	<string>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	"statistiqueH.h"
+
+1652647910 d:\moteur de recherche\moteur_derecherche\statistiqueh.h
+
+1652645712 source:d:\moteur de recherche\moteur_derecherche\analyseurcode.cpp
+	<iostream>
+	"AnalyseurH.h"
+	"statistiqueH.h"
+	<unordered_map>
+
+1652645604 d:\moteur de recherche\moteur_derecherche\analyseurh.h
+	"statistiqueH.h"
+	<iostream>
+	<vector>
+	"fichierH.h"
+
+1652646361 source:d:\moteur de recherche\moteur_derecherche\indexcode.cpp
+	<iostream>
+	<vector>
+	<set>
+	"IndexH.h"
+	"statistiqueH.h"
+	<iomanip>
+	<ios>
+	<string.h>
+	<algorithm>
+	"gestionaireH.h"
+
+1652646361 d:\moteur de recherche\moteur_derecherche\indexh.h
+	<set>
+	"statistiqueH.h"
+	<map>
+	<vector>
+	"AnalyseurH.h"
+	"lecteur_fichierH.h"
+
+1652647866 source:d:\moteur de recherche\moteur_derecherche\ordonnanceurcode.cpp
+	<iostream>
+	<vector>
+	<set>
+	"IndexH.h"
+	"statistiqueH.h"
+	<iomanip>
+	<ios>
+	<string.h>
+	"ordonnanceurH.h"
+	<algorithm>
+	<string>
+	<bits/stdc++.h>
+
+1652645793 d:\moteur de recherche\moteur_derecherche\ordonnanceurh.h
+	<iostream>
+
+1652647579 source:d:\moteur de recherche\moteur_derecherche\lecteur_fichiercode.cpp
+	<iostream>
+	"lecteur_fichierH.h"
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	"traiteurH.h"
+	<dirent.h>
+	<sys/types.h>
+	"fichierH.h"
+	"AnalyseurH.h"
+	<sstream>
+
+1652647670 source:d:\moteur de recherche\moteur_derecherche\lecteur_requetecode.cpp
+	<iostream>
+	<set>
+	<string>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<cmath>
+	"traiteurH.h"
+	"lecteur_requeteH.h"
+	"lecteur_fichierH.h"
+	<dirent.h>
+	<sys/types.h>
+	"fichierH.h"
+	"AnalyseurH.h"
+
+1652486039 source:d:\moteur de recherche\moteur_derecherche\traiteurcode.cpp
+	<iostream>
+	"traiteurH.h"
+	<set>
+	<string>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+
+1652130816 d:\moteur de recherche\moteur_derecherche\traiteur.h
+	<iostream>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	<algorithm>
+	"traiteur.h"
+
+1652130457 d:\moteur de recherche\moteur_derecherche\lecteur_requete.h
+	<iostream>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	<algorithm>
+
+1652130457 d:\moteur de recherche\moteur_derecherche\lecteur_fichier.h
+	<iostream>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	<algorithm>
+
+1652645784 d:\moteur de recherche\moteur_derecherche\traiteurh.h
+	<iostream>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	<algorithm>
+
+1652645625 d:\moteur de recherche\moteur_derecherche\lecteur_requeteh.h
+	<iostream>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	<algorithm>
+
+1652645622 d:\moteur de recherche\moteur_derecherche\lecteur_fichierh.h
+	<iostream>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	<algorithm>
+	"traiteurH.h"
+	"lecteur_fichierH.h"
+	<dirent.h>
+	<sys/types.h>
+	"fichierH.h"
+
+1652645876 source:d:\moteur de recherche\moteur_derecherche\gestionairecode.cpp
+	<iostream>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	"gestionaireH.h"
+	"IndexH.h"
+
+1652478547 d:\moteur de recherche\moteur_derecherche\gestionaireh.h
+	<iostream>
+	"IndexH.h"
+	<set>
+	<string>
+	<fstream>
+	<iterator>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<string>
+	<sstream>
+
+1652348157 d:\moteur de recherche\moteur_derecherche\fichierh.h
+	<iostream>
+
+1652580570 source:d:\moteur de recherche\moteur_derecherche\moteurcode.cpp
+	<iostream>
+	<string>
+	"moteurH.h"
+	<vector>
+	<map>
+	"IndexH.h"
+	"lecteur_fichierH.h"
+	"lecteur_requeteH.h"
+	"ordonnanceurH.h"
+	"traiteurH.h"
+	"AnalyseurH.h"
+	"gestionaireH.h"
+
+1652538724 d:\moteur de recherche\moteur_derecherche\moteurh.h
+	<iostream>
+	<vector>
+	"IndexH.h"
+	"ordonnanceurH.h"
+
+1652455017 source:d:\moteur de recherche\moteur_derecherche\basederecherchecode.cpp
+	<iostream>
+	<set>
+	"basederecherhceH.h"
+
+1652645615 d:\moteur de recherche\moteur_derecherche\basederecherhceh.h
+	<iostream>
+	"traiteurH.h"
+	<set>
+

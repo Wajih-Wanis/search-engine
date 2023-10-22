@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="moteur_derecherche" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/moteur_derecherche" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/moteur_derecherche" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="AnalyseurH.h" />
+		<Unit filename="IndexH.h" />
+		<Unit filename="analyseurcode.cpp" />
+		<Unit filename="fichierH.h" />
+		<Unit filename="gestionaireH.h" />
+		<Unit filename="gestionairecode.cpp" />
+		<Unit filename="indexcode.cpp" />
+		<Unit filename="lecteur_fichierH.h" />
+		<Unit filename="lecteur_fichiercode.cpp" />
+		<Unit filename="lecteur_requeteH.h" />
+		<Unit filename="lecteur_requetecode.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="moteurH.h" />
+		<Unit filename="moteurcode.cpp" />
+		<Unit filename="ordonnanceurH.h" />
+		<Unit filename="ordonnanceurcode.cpp" />
+		<Unit filename="statistiqueH.h" />
+		<Unit filename="statistiquecode.cpp" />
+		<Unit filename="traiteurH.h" />
+		<Unit filename="traiteurcode.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
